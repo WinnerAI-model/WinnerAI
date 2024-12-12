@@ -1,9 +1,9 @@
-# Winner AI Model-Intro
+# WIN AI Model-Intro
 
 12/12/24
 Twitter -> https://x.com/winner_ai
 
-A quickstart for the Winner AI Model for AI prediction markets on Solana.
+A quickstart for the WIN AI Model for AI prediction markets on Solana.
 
 ## Compatible Systems
 
